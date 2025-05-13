@@ -1,0 +1,21 @@
+[project]
+name = "pyssmos3"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "meronepy",email = "meronepy@outlook.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bluepy (>=1.3.0,<2.0.0)",
+    "pycryptodome (>=3.22.0,<4.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "pyssmos3", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
