@@ -62,10 +62,10 @@ Continuous operation tests over several days have been conducted, but stable ope
 
 ## References
 
-- t_hoshiyama. “Accessing Sesame5 from Raspberry Pi with Python”. PC Game Development Club. 2024. https://pgdc.pickle.ne.jp/access-sesame5/ (accessed 2025-01-16)
-- CANDY-HOUSE. "API_document". GitHub. 2024. https://github.com/CANDY-HOUSE/API_document (accessed 2025-01-16)
-- CANDY-HOUSE. "SesameSDK_Android_with_DemoApp". GitHub. 2024. https://github.com/CANDY-HOUSE/SesameSDK_Android_with_DemoApp (accessed 2025-03-09)
-- mochipon. "pysesameos2". GitHub. 2022. https://github.com/mochipon/pysesameos2 (accessed 2025-03-16)
+- t_hoshiyama . “Sesame5をラズパイからPythonでアクセスする” . パソコンゲーム開発倶楽部 . 2024 . https://pgdc.pickle.ne.jp/access-sesame5/ , (2025-1-16)
+- CANDY-HOUSE . "API_document" . github . 2024 . https://github.com/CANDY-HOUSE/API_document , (2025-1-16)
+- CANDY-HOUSE . "SesameSDK_Android_with_DemoApp" . github . 2024 . https://github.com/CANDY-HOUSE/SesameSDK_Android_with_DemoApp , (2025-3-9)
+- mochipon . "pysesameos2" . github . 2022 . https://github.com/mochipon/pysesameos2 , (2025-3-16)
 
 ---
 
